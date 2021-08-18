@@ -1,3 +1,6 @@
 this is the third file!
 hi
 add the first line
+add the second line
+add the third line
+add the 4th line
