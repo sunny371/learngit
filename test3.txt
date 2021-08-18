@@ -4,3 +4,5 @@ add the first line
 add the second line
 add the third line
 add the 4th line
+add the 5th line
+add the 6th line
