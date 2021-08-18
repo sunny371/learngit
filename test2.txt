@@ -1,2 +1,2 @@
 this is a txt file created by sublime.
-we will see if git will give a warning when it is added.
+We will see if git will give a warning when it is added.
