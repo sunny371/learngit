@@ -1,2 +1,3 @@
 this is a txt file created by sublime.
 We will see if git will give a warning when it is added.
+seems there is some difference.
